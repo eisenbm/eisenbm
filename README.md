@@ -1,8 +1,6 @@
-## Michael Eisenbraun (Professor / Developer)
+## Michael Eisenbraun - Professor
 
-I am a Professor at Algonquin College in the Web Development and Internet Applications program.
-
-In a previous life, I was a full-stack web developer of with more than 10 years of professional experience.
+Hi, I'm Michael. I have been a professor at Algonquin College for over decade. I teach and develop courses in web development using a variety of tech stacks and languages.
 
 <!--
 **eisenbm/eisenbm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
