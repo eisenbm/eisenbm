@@ -1,5 +1,4 @@
-## Call me Michael
-### Professor and Developer
+## Michael Eisenbraun (Professor / Developer)
 
 I am a Professor at Algonquin College in the Web Development and Internet Applications program.
 
